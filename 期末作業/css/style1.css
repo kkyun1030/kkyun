@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+
+}
+.contents{
+    width: 960px;
+    margin: 40px auto;
+    padding: 40px 80px;
+    text-align: center;
+}
+nav{
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    line-height: normal;
+}
+a{
+    
+}
